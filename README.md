@@ -14,7 +14,7 @@ Deploy Flask Web App using uWSGI and Nginx on Docker
 
 Nginx running on port 80/tcp
 
-This is a very very basic flask app that just displaying text to browser
+This is a very basic flask web app that just displaying text to browser
 
 
 ##### Author
