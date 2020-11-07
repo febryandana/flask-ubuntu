@@ -9,7 +9,7 @@ Deploy Flask Web App using uWSGI and Nginx on Docker
 - Build dockerfile
   ```$ docker build --tag IMAGE_NAME .```
   
-- You can also pulling the image from [Docker Hub](https://hub.docker.com)
+- You can also pulling the image from [Docker Hub](https://hub.docker.com/r/m1nerva/flask-ubuntu)
   ```$ docker pull m1nerva/flask-ubuntu:latest```
   
 - Run/create container from that image, e.g.
